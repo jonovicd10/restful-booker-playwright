@@ -1,4 +1,4 @@
-# Booking API Automated Tests
+# restful-booker API Automated Tests
 
 This project contains automated tests for the restful-booker API using Playwright and TypeScript. The tests cover authentication and CRUD operations.
 
@@ -13,8 +13,7 @@ This project contains automated tests for the restful-booker API using Playwrigh
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/booking-api-tests.git
-   cd booking-api-tests
+   git clone https://github.com/jonovicd10/restful-booker-playwright.git
    ```
 
 2. **Install dependencies:**
